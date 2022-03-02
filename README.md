@@ -8,6 +8,7 @@ A list of free learning resources across a wide range of emerging technologies
 ## Internet of Things (New Sensors)
 ## Programming/Coding
 ## Video Game Design
+- [Houdini, SideFX Tutorials](https://www.sidefx.com/tutorials/)
 ## 3D Printing
 ## 3D Reconstruction
 ## Big Data
